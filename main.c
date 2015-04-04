@@ -14,7 +14,10 @@
  * FROM CLAIMS OF INFRINGEMENT, IMPLIED WARRANTIES OF MERCHANTABILITY
  * AND FITNESS FOR A PARTICULAR PURPOSE.
  *
- */
+ ghhhkll;;l\
+ knkl;;\*
+ 
+ /
 
 #include <stdio.h>
 
